@@ -1,7 +1,7 @@
 # Utiliser l'image officielle Python 3.14 slim
 FROM python:3.14-slim
 
-# Définir le répertoire de travail dans le conteneur
+# Définir le répertoire de travail dans le cit onteneur
 WORKDIR /app
 
 # Copier le fichier des dépendances et installer
